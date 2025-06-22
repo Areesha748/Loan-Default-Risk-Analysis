@@ -29,7 +29,7 @@ The company faced rising customer defaults due to weak borrower screening. This 
 - Combine multiple borrower metrics for more accurate risk profiling.
 
 # Files Included
-- 📄 [Full Report (Google Doc)](link-to-pdf-or-doc)
+- 📄 Full Report (PDF) 
 - 📊 Cleaned Excel Dataset
 - 📈 Supporting Charts & Visuals
 
